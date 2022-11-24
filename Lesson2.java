@@ -1,4 +1,4 @@
-//Demonstrate command line argument
+//WAP to demonstrate command line argument
 package JavaInterviewPrograms;
 
 public class Lesson2 {

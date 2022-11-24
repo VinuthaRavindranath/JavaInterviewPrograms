@@ -1,4 +1,4 @@
-//WAP to print intergers(1 to 1000) in java
+//WAP to print integers(1 to 1000) in java
 package JavaInterviewPrograms;
 
 public class Lesson1 {

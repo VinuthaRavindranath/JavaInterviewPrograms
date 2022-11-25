@@ -7,3 +7,7 @@
 6.WAP to compare two Srings in Java
 7.WAP to print star pattern in the console
 8.WAP to reverse numbers in java
+9.WAP to print alphabet a-z
+10.WAP to demonstrate Fibonacci series
+11.WAP to Print Fibonacci Series Using Recursion in Java
+12.WAP to Check Whether A Number is Prime or Not

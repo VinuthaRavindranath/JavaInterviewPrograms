@@ -11,3 +11,5 @@
 10.WAP to demonstrate Fibonacci series
 11.WAP to Print Fibonacci Series Using Recursion in Java
 12.WAP to Check Whether A Number is Prime or Not
+13.WAP to demonstrate Palindrome in Java
+14.WAP to demonstrate Palindrome of a sentense(words) in Java
